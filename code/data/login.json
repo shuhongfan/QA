@@ -1,0 +1,23 @@
+[
+  {
+    "username": "manager",
+    "password": "123456",
+    "status": 200,
+    "message": "成功",
+    "code": 200
+  },
+  {
+    "username": "",
+    "password": "123456",
+    "status": 200,
+    "message": "错误",
+    "code": 500
+  },
+  {
+    "username": "jack666",
+    "password": "123456",
+    "status": 200,
+    "message": "错误",
+    "code": 500
+  }
+]
