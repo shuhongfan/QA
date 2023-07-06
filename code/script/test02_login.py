@@ -10,9 +10,9 @@ header_data = {
 }
 login_data = {
     "username": "admin",
-    "password": "admin123",
+    "password": "HM_2023_test",
     "code": 2,
-    "uuid": "f3334fd726bf4155b787198c701786b6"
+    "uuid": "7db7bff9b00b45b498b8f96219105ae4"
 }
 response = requests.post(url=url, headers=header_data, json=login_data)
 

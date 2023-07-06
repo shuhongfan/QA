@@ -33,7 +33,7 @@ class TestContractBusiness:
         # 登录
         login_data = {
             "username": "admin",
-            "password": "admin123",
+            "password": "HM_2023_test",
             "code": "2",
             "uuid": res_v.json().get("uuid")
         }
